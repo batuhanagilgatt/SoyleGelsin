@@ -6,7 +6,7 @@ Modüller,css, vesaire dosyalar sıkıştırılmış dosyalardır.
 
 Mevcut Özellikler :
 
-1-) Restorant Oluşturma
+1-) Restorant Oluşturma<br>
 2-) Restorant Detaylarını Tamamlama ve Menü Oluşturma
 3-) Üyelik Oluşturma, Profilimi Düzenle vb Özellikler
 4-) Üye : Sipariş verebilir, siparişini takip edebilir(yolda mı? yola çıktı mı?). Hoşnut kaldığı veya hoşnut kalmadığı restorant sahibine mesaj gönderebilir. Söyle Gelsin yöneticileri ile iletişime geçebilir.
