@@ -13,3 +13,5 @@ Mevcut Özellikler :
 5-) Restoran : Siparişlerini takip edebilir. Siparişi yola çıkar, beklemede, tamamla gibi işlemleri tamamlayabilir. Siparişi reddedebilir. Ürünlerini güncelleyebilir. Söyle Gelsin Yöneticileri ile iletişime geçebilir.<br>
 6-) Yönetici : İstatistiksel verilere ulaşabilir, Restoran yasaklayabilir, Üye Yasaklayabilir. Yeni bir yönetici ataması yapabilir. Yeni Bir Kategori Ekleyebilir.<br>
 ...
+
+<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/584caef7-0118-4fc0-86c3-0288f28bc3a7?autoplay=false&showinfo=true" allowfullscreen style="border:none;"></iframe>
