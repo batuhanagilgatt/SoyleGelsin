@@ -8,7 +8,7 @@
         "buffer": "^5.5.0",
         "bulma": "^0.7.5",
         "ejs": "^2.7.4",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "express-session": "^1.17.0",
         "js-alert": "^1.0.4",
         "mssql": "5.0.3",
